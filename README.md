@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jvdev-sys
-- 👀 I’m Interested in getting a job as a mobile developer
+- 👀 I’m Interested in getting a job as a mobile or web developer
 - 🌱 I’m currently learning javascript and React Native
 - 📫 How to reach me : jorgelucasbastosdaveiga@gmail.com
 
